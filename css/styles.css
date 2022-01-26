@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+hr {
+    background-color: none;
+    border-style: none;
+    height: 12px;
+    width: 10%;
+    border-top: 6px dotted #EAF6F6;
+    margin: 100PX auto 100px auto;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    line-height: 2;
+}
